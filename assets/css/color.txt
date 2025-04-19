@@ -1,0 +1,11 @@
+/* CSS HEX */
+ --geyser: #dce4e4;
+--genoa: #186366;
+--java: #26bea5;
+--aztec: #0d171b;
+--mountain-meadow: #1eab98;
+--juniper: #688287;
+--eastern-blue: #199195;
+--timber-green: #183434;
+--neptune: #86b4bc;
+--venus: #948c90;
